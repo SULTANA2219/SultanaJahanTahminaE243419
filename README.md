@@ -8,11 +8,11 @@
 
 | Problem | Title | Status |
 |-------------|-------|----------|
-| pD | Fixed password| AC |
+| pD | Fixed password | AC |
 | | | |
 | pE | Max | AC |
 | | | |
-| pF | Multiplication table| AC |
+| pF | Multiplication table | AC |
 | | | |
 | pG | Factorial | AC |
 | | | |
@@ -25,4 +25,22 @@
 | pT | Shape2 | AC |
 | | | |
 | pW| Shape3 | AC |
+| | | |
+| p1 | Left Triangle (N = 5) | AC |
+| | | |
+| p2 | Right Triangle (with spaces) (N = 5) | AC |
+| | | |
+| p3 | Pyramid (N = 5) | AC |
+| | | |
+| p4 | Inverted Pyramid (N = 5) | AC |
+| | | |
+| p5 | Diamond (N = 5) | AC |
+| | | |
+| p6 | Number Triangle (N = 5) | AC |
+| | | |
+| p7 | Number Pyramid (N = 5) | AC |
+| | | |
+| p8 | Alphabet Triangle (N = 5) | AC |
+| | | |
+| p9| Butterfly Pattern (N = 4) | AC |
 | | | |
